@@ -1,5 +1,6 @@
 # buseyilmazz
 Who am I?
+Hi! I am Buse, a passionate software developer. I love coding and am constantly trying to improve myself. I have experience in Unity and Game Art, and I enjoy working on projects in this area. I believe in open source software and community engagement, and I share my projects on GitHub while staying true to these values. I'm excited to explore new ideas and keep up with the changes in the world of technology. Feel free to browse my projects on my GitHub profile and get in touch to collaborate. Let's build great projects together!
 
 <h1 align="center">Hi 👋, I'm Buse</h1>
 <h3 align="center">A passionate Unity Game Developer from Turkey</h3>
