@@ -13,7 +13,7 @@ Hi! I am Buse, a passionate software developer. I love coding and am constantly 
 
 - 🌱 I’m currently learning **Unity,AI,Figma,Photoshop**
 
-- 📫 How to reach me **bsylm@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
